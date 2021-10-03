@@ -1,1 +1,2 @@
-###cwiczenia dla testerow git
+
+###Cwiczenia dla testerow git
