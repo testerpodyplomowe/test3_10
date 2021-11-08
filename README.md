@@ -6,3 +6,4 @@ c95932a rename nauka.txt
 2abe624 changed file
 21ea46b Deleted file
 b1d0ad0 Initial commit
+###Cwiczenia dla testerow git
